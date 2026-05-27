@@ -11,3 +11,5 @@ git branch
 git branch -r
 
 git branch -a
+
+Second commit: updated Git commands section
